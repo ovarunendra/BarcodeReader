@@ -1,4 +1,4 @@
-package com.barcodereader;
+package com.ovarunendra.barcodereader;
 
 import android.app.Application;
 
